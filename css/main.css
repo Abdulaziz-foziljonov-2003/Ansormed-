@@ -1,0 +1,230 @@
+*{
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    
+}
+.containe {
+    max-width: 1440px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 170px;
+    padding-right: 170px;
+}
+.saitnav-sektion{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: 14px;
+    
+}
+
+.seitnav-logo {
+}
+.seitnav {
+}
+.seitnav-list {
+    display: flex;
+    width: 497px;
+    height: 21pxp;
+    padding-left: 0;
+    
+    
+}
+.seitnav-atem :not(:last-child) { 
+    margin-left: 0;
+}
+.seitnav-atem {
+    margin-left: 32px;
+}
+.seitnav-link {
+    color: #000;
+    text-transform: uppercase;
+}
+.bot {
+    border-radius: 8px;
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-style: 15px;
+    margin-bottom: 26px;
+    background-color: #DE2E54;
+    color:#fff;
+    padding: 12px 24px;
+}
+.bot-2{
+    width: 189px;
+    height: 47px;
+    padding: 12px 24px;
+    margin-top: 36px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-style: 15px;
+}
+.h2-main{
+    margin: auto;
+    
+}
+.main-contaner {
+   
+}
+.main-seit {
+    display: flex;
+    justify-content: space-between;
+    background-color: #0EB4C1;
+    align-items: center;
+    margin-bottom: 120px;
+}
+.main-list {
+}
+.h1-main {
+    width: 500px;
+height: 86px;
+font-family: 'Open Sans Condensed', sans-serif;
+font-style: 36px;
+color: #fff;
+margin-top: 120px;
+margin-left: 0;
+margin-top: 16px;
+margin-right: 15px;
+
+}
+.p-main {
+    width: 440px;
+    height: 108px;
+    font-family: 'Open Sans', sans-serif;
+    font-style: 18px;
+    color: #fff;
+    margin-bottom: 36px;
+
+}
+.a-main {
+   
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-style: 15px;
+    max-width: 189px;
+    height: 47px;
+    background-color: #DE2E54;
+}
+
+.a-main-img {
+    margin-bottom: 0;
+}
+.section-main {
+    width: 886px;
+    height: 1207px;
+    margin: auto;
+    background-color: #fff;
+    margin-bottom: 60px;
+}
+.section-h1{
+    text-align: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size:36px;
+}
+.section-list {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 80px;
+    align-items: center;
+    margin-top: 56px;
+}
+.section-link {
+    background: url(image.png);
+    box-shadow: 0px 12px 24px -8px rgba(0, 107, 116, 0.3);
+    border-radius: 24px;
+}
+.img{
+    border-radius: 24px;
+}
+.item{
+    width: 600px;
+    height: 149px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+}
+.bot-main{
+    border-radius: 8px;
+    align-content: center;
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 15px;
+    
+    background-color: #DE2E54;
+    color:#fff;
+    padding: 12px 24px;
+   
+}
+.bot-div{
+    margin-top: 60px;
+    margin-bottom: 120px;
+    align-self: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.section-h1-h1{
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.section-foot {
+    width: 1440px;
+    height: 253px;
+    background-color: #0EB4C1;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+
+.foot-list {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 365px;
+    height: 43px;
+}
+.color-nav{
+    background-color: #222222;
+    color: #fff;
+    display: flex; 
+    justify-content: space-between;
+    width: 1440px;
+    height: 97.94px;
+    align-items: center;
+}
+.foot-coler{
+    color: #fff;
+    display: flex;
+    justify-content: flex-end;
+    text-transform: uppercase;
+    
+}
+.foot-section{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-style: 14px;
+    
+}
+.div-p{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: oldlace;
+    background-color: #0EB4C1;
+}
+.seitnav-seitnav{
+    display: flex;
+    justify-content: flex-end;
+}
+.seitnav-list-ul{
+    display: flex;
+    width: 497px;
+    height: 21pxp;
+    padding-left: 0;
+}    
